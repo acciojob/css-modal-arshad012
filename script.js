@@ -13,3 +13,5 @@ function close_modal() {
 	const modal_content = document.querySelector('.modal-content');
 	modal_content.style.top = '-150px';
 }
+
+
