@@ -9,7 +9,7 @@ body {
 	margin-top: 50px;
 	/* position: relative; */
 	overflow: hidden;
-	/* display: flex; */
+	display: none;
 }
 .modal-content {
 	width: 100%;

@@ -1,7 +1,7 @@
 
 //your JS code here. If required.
 const modal = document.querySelector('.modal');
-modal.style.display = 'none';
+// modal.style.display = 'none';
 
 function open_modal() {
 	modal.style.display = 'block';
