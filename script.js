@@ -1,6 +1,6 @@
 
 //your JS code here. If required.
-/*
+
 function open_modal() {
 	const modal = document.querySelector('.modal');
 	modal.style.display = 'block';
@@ -16,5 +16,5 @@ function close_modal() {
 	// modal_content.style.display = 'none';
 	// modal_content.style.top = '-150px';
 }
-*/
+
 
