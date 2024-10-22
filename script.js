@@ -1,20 +1,13 @@
 
 //your JS code here. If required.
-const modal = document.querySelector('.modal');
-// modal.style.display = 'none';
+const modal_content = document.querySelector('.modal-content');
 
 function open_modal() {
-	modal.style.display = 'block';
-	// const modal_content = document.querySelector('.modal-content');
-	// modal_content.style.display = 'block';
-	// modal_content.style.top = 0;
+	modal_content.style.top = 0;
 }
 
 function close_modal() {
-	modal.style.display = 'none';
-	// const modal_content = document.querySelector('.modal-content');
-	// modal_content.style.display = 'none';
-	// modal_content.style.top = '-150px';
+	modal_content.style.top = '-150px';
 }
 
 
