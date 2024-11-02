@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+.show {
+	display: none;
+}
 /*
 body {
 	background-color: grey;
